@@ -143,7 +143,7 @@ vibe-coding-project/
 
 **2. Dashboard Utama**
 
-<img width="1467" height="972" alt="image" src="https://github.com/user-attachments/assets/5ba41566-6d4c-42e7-a7fd-994514429ab2" />
+<img width="1511" height="709" alt="image" src="https://github.com/user-attachments/assets/9675cc76-6fb3-4abe-b6fb-cb074829e88f" />
 
 **3. Form Input Laporan**
 
