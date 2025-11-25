@@ -80,17 +80,6 @@ Markdown
 
 Repository ini berisi source code untuk tugas **Vibe Coding**. Aplikasi ini adalah sistem pelaporan fasilitas rusak berbasis web yang dibangun menggunakan **MERN Stack** (MongoDB, Express, React, Node.js).
 
-## Identitas Mahasiswa
-
-| Informasi | Detail |
-| :--- | :--- |
-| **Nama** | [ISI NAMA KAMU DISINI] |
-| **NIM** | [ISI NIM KAMU DISINI] |
-| **Kelas** | [ISI KELAS KAMU] |
-| **Prodi** | Teknologi Informasi |
-
----
-
 ## Deskripsi Proyek
 
 **VibeReport** adalah aplikasi sederhana untuk memudahkan mahasiswa atau staf melaporkan kerusakan fasilitas kampus.
